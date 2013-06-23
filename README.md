@@ -3,7 +3,7 @@ haveread
 
 运行程序：
 安装jre，导入sql表，具体的数据库连接参数在DB.properties文件中。
-输入命令：java -jar findbook.jar 微博昵称
+输入命令：java -jar findbooks.jar 微博昵称
 
 
 
